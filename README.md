@@ -1,7 +1,7 @@
 # WebGL, Three.js | AI | Blockchain Expert
 
 <div>
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F2FF1E&background=010101FB&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Welcome+to+my+profile!;Let's+turn+your+vision+into+reality+with+my+expertise.)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F2FF1E&background=010101FB&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Welcome+to+my+profile!;Let's+turn+your+vision+into+reality+with+my+expertise." alt="Typing SVG" />
   <br/>
   ✅ WebGL & Three.js – I craft high-performance, immersive 3D experiences for web-based applications, including interactive visualizations, metaverse projects, and real-time 3D environments. Whether it's physics-based simulations or custom-built 3D tools, I ensure smooth performance across all devices.<br/>
   ✅ Blockchain Development – I have extensive experience in smart contracts, dApps, NFTs, DeFi protocols, and Web3 integrations. I’ve worked with Ethereum, Solana, and Polygon to build secure and scalable decentralized applications.<br/>
