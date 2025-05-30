@@ -1,4 +1,4 @@
-# WebGL, Three.js | AI | Blockchain Expert
+# WebGL, Three.js | AI | Full-Stack | Blockchain Expert
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F2FF1E&background=010101FB&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Welcome+to+my+profile!;Let's+turn+your+vision+into+reality+with+my+expertise.)](https://git.io/typing-svg)
 
